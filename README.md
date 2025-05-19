@@ -2,15 +2,14 @@
 
 ### 💻 Sobre mim  
 🎯 Estudante de **Sistemas para Internet** | Aspirante a **Desenvolvedor Full-Stack**  
-🚀 Apaixonado por **Java, Spring** e **Cloud Computing**  
-📌 Buscando uma **oportunidade de estágio** para aprimorar minhas habilidades  
+🚀 Minha Stack principal é o  **Spring** e todo o seu ecossistema     
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)   
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
@@ -21,16 +20,16 @@
 ---
 
 ### 📈 O que estou aprendendo agora?  
-📌 Aprofundando conhecimento em **Java, Spring e Angular**   
+📌 Aprofundando conhecimento em **Spring e React**   
 📌 Melhorando minhas habilidades em **arquitetura de software e boas práticas**  
-📌 Explorando conceitos de **Cloud computing**  
+📌 Explorando conceitos de **Cloud Computing**  
 
 ---
 
 ### 🔥 Meus Projetos Recentes
-📌 [Api de Transações] (https://github.com/gustavoscgomes/transacao-api.git)   
-📌 [Microsserviço de Pedidos] (https://github.com/gustavoscgomes/microsservicos-pedidos.git)   
-📌 [Api AlgaFood] (https://github.com/gustavoscgomes/algafood.git)   
+📌 [Api de Transações](https://github.com/gustavoscgomes/transacao-api.git)   
+📌 [Microsserviço de Pedidos](https://github.com/gustavoscgomes/microsservicos-pedidos.git)   
+📌 [Api AlgaFood](https://github.com/gustavoscgomes/algafood.git)   
 
 ---   
 
